@@ -7,3 +7,5 @@ subtitle: Society for Advancement of Chicanos/Hispanics and Native Americans in 
 Here's the body
 
 ### More info
+
+Update the info
