@@ -14,11 +14,12 @@ author: SACNAS Chapter at the University of Massachusetts Boston
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Subscribe to our newsletter: "http://eepurl.com/hhTdlv"
+    - National Organization: "https://www.sacnas.org/"
+    - IMSD at UMass Boston: "https://www.umb.edu/academics/csm/biology/beyond_the_classroom/initiative_for_maximizing_student_development"
+    - UMB Get Involved: "https://www.umb.edu/academics/cla/high_impact_humanities_at_umass_boston/get_involved"
 
 # --- Logo --- #
 
@@ -27,7 +28,7 @@ navbar-links:
 avatar: "/assets/img/umbsacnas_logo_circle_2019.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
