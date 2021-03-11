@@ -14,7 +14,7 @@ author: SACNAS Chapter at the University of Massachusetts Boston
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "about"
+  About: "about"
   Resources:
     - Subscribe to our newsletter: "http://eepurl.com/hhTdlv"
     - National Organization: "https://www.sacnas.org/"
